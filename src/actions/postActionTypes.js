@@ -1,0 +1,6 @@
+export const SAVE_POST = 'SAVE_POST';
+export const UN_SAVE_POST = 'UN_SAVE_POST';
+export const SAVE_POST_SUCCESS = 'SAVE_POST_SUCCESS';
+export const UN_SAVE_POST_SUCCESS = 'UN_SAVE_POST_SUCCESS';
+export const GET_LIST_POST = 'GET_LIST_POST';
+export const GET_LIST_POST_SUCCESS = 'GET_LIST_POST_SUCCESS';
